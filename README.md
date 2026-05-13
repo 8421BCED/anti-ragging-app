@@ -55,9 +55,9 @@
 ---
 
 ## 👨‍💻 Developer
-Developed with ❤️ by **Joel Branaid.S**
-- **Phone**: +91 82201 71043
-- **Email**: joel.ug.23.cs@francisxavier.ac.in
+Developed with ❤️ by **Joel Branaid.S** and DANIEL RAJ A
+- **Phone**: +91 82201 71043  , +91 80723 29996
+- **Email**: joel.ug.23.cs@francisxavier.ac.in , daniela.ug.24.it@francisxavier.ac.in
 
 ---
-*Created for Francis Xavier Engineering College students safety.*
+*Created for Francis Xavier Engineering College students safety.* for eductional purpose only 
