@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.JoelsAntirag" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/sos_red</item>
+        <item name="colorPrimaryDark">@color/sos_red_dark</item>
+        <item name="colorAccent">@color/register_yellow</item>
+        <item name="android:windowBackground">@color/dark_bg</item>
+    </style>
+</resources>

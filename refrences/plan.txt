@@ -1,0 +1,19 @@
+soo broo today we are going to make a anti ragging app with java and kotlin and broo see the image in the refrence
+folder you can see the pic and then broo 
+
+
+using this image we have to make a ui and that will be a anti ragging app
+ and i htink we done need the login finctions soo  i click the app it will open then i see the red sos button in the middle and the other option too like in the image , 
+
+ same features like the register , track complaints , anonymous report , how to use , and some other menu like the settings, and report , data  ,support , thasall , soo it will work like , 
+
+ i will click the sos button in the screen and then after 3 sec it will send a message to the admin , soo we alos need to build a admin panel in web , so next, broo , adter the admin get the sos message it will show it in the admin panel ,  then the admin will track the location from the app and then he will send a message to the  soo we need to give loaction allow in the app . soo ok while the user open the app we can get the locaktion acess form tjem then ok send the location and details to the admin panale and he and if the user click the report button option then create a form like name , class, sec , and department , then wahts the problem , and pic of it , thsal, then clic kthe send buttoin and it will send those to the admin panale, and the admin will looks it and click the tick or cross i meand approve or not , once approve it will show in the app like you reaquest is approved , then show the history in the reports option also in the track reports , view 
+ then broo soo the stack is we can use the java and kotlin for android, and for the web we can use the flask based so that it easy and simple , no mess and frontend we can use the react also put a passwoekd for the admin side the pass is : joel@admin , and broo ther is also a anonymous report in the app option so that we dont get the user name or personla details like clas or sec , just send the pic and whats wrong thatsall, so 
+
+  for the storage i planned to use the suba base  , yeah that supabase details : proj name : joelbro 
+
+  project id : bmtslqeyilbxtyjshncd 
+  keys : (Moved to .env)
+
+
+  so also gimme the sql for create the tables and yeha lets goo and think like a pro and create this project and broo i dont have more idea about this project sooyou take these are refrence and create it bro plz and aso we dont neeed to send the sms or twillo seruves just show insid the app that your request is approvend or declined, in notification panel, lets goo broo also my mobile is connected via adb soowe can use tit for real time , testing and also dont run the gradle command by your self  tell me i will run it and see the app in mobile. soo lets goo ~
